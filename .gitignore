@@ -1,0 +1,19 @@
+# Dependencias (pesadas y regenerables)
+node_modules/
+
+# Variables de entorno y credenciales sensibles
+.env
+.env.local
+.env.development
+.env.production
+
+# Logs de ejecución y errores
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos del sistema operativo y editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
